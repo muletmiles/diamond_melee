@@ -1,3 +1,9 @@
+# hacks
+
+so yeah inference seems okay. In the following you can see that it decoheres pretty quick when you just shove no input for either p1 or p2. But when we replay the hdf5 captures it is a liiiitle more stable
+
+<video src="assets/demo1.mp4" width="640" height="360" autoplay loop muted></video>
+
 # Diffusion for World Modeling: Visual Details Matter in Atari (NeurIPS 2024 Spotlight)
 
 This branch contains the code to play (and train) our world model of *Counter-Strike: Global Offensive* (CS:GO).
